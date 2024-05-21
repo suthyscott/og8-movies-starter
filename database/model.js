@@ -1,4 +1,4 @@
-import { Model } from 'sequelize';
+import { Model, DataTypes } from 'sequelize';
 import util from 'util';
 import connectToDB from './db.js';
 
